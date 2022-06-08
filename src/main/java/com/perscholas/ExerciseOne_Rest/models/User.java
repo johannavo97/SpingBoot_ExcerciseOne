@@ -1,4 +1,4 @@
-package com.perscholas.models;
+package com.perscholas.ExerciseOne_Rest.models;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

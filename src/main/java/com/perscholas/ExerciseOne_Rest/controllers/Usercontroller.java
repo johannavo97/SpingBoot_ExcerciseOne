@@ -1,6 +1,6 @@
 package com.perscholas.ExerciseOne_Rest.controllers;
 
-import com.perscholas.models.User;
+import com.perscholas.ExerciseOne_Rest.models.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
